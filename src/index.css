@@ -16,3 +16,8 @@ a {
 .bold{
     font-weight: 800;
 }
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
